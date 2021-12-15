@@ -1,0 +1,9 @@
+#NAME: Jinbean Park
+#EMAIL: keiserssose@gmail.com
+#ID: 805330751
+
+#! /bin/bash
+
+python lab3b.py $1
+
+exit $?
